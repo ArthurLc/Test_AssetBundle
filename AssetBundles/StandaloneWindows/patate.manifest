@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 489202265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59ebbaf1fa6e4d36185cdc95814842ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dbb8d1299e3b1220f72d4e7a51d1aca7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c94b1b6b853ac24da6225dd40ccfcec, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/PATATE/PATATE.prefab
+- Assets/PATATE/PATATE.mat
+Dependencies: []

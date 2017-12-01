@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 230085394
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: patate
+      Dependencies: {}
+    Info_1:
+      Name: banane
+      Dependencies: {}
+    Info_2:
+      Name: radis
+      Dependencies: {}
+    Info_3:
+      Name: itemlist
+      Dependencies: {}

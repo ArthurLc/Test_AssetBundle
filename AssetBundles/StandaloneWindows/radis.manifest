@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 408558591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 168289e172daf9b208cb860abab421ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12b5cc94457f0530b00c05b12095ad57
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c94b1b6b853ac24da6225dd40ccfcec, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/RADIS/RADIS.prefab
+- Assets/RADIS/RADIS.mat
+Dependencies: []
